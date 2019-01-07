@@ -1,2 +1,2 @@
 # twentyfortyeight
-Recreation of the 2048 game by Gabriele Cirulli
+Recreation of Gabriele Cirulli's 2048
