@@ -17,9 +17,6 @@ public class Main {
                 The Models are the game objects (Board and Tiles), and contain the game logic.
                 The View handles graphical output.
                 The Controller handles user input, and updates Model and View accordingly.
-
-                I used the exact fonts and colors used in the original game, and did my best to copy the layout.
-
          */
         Board board = new Board();
         View view = new View(board);
