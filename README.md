@@ -1,2 +1,2 @@
 # twentyfortyeight
-Recreation of Gabriele Cirulli's 2048
+Recreation of [2048](https://play2048.co)
